@@ -70,6 +70,7 @@
 				<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Chapter 3 Locations <span class="caret"></span></a> 
 					<ul class="dropdown-menu">
 						<li><a href="#">Playcare</a></li>
+						<li><a href="#">Home Sweet Home</a></li>
 					</ul>
 				</li>
 				<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Project: Playtime Locations <span class="caret"></span></a> 
