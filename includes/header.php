@@ -90,6 +90,16 @@
 						<li><a href="#">Project: Playtime Cinematic Trailer</a></li>
 					</ul>
 				</li>
+				<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">VHS <span class="caret"></span></a> 
+					<ul class="dropdown-menu">
+						<li><a href="#">Chapter 1 Official Gameplay Trailer</a></li>
+						<li><a href="#">Chapter 2 Teaser Trailer</a></li>
+						<li><a href="#">Chapter 2 Official Gameplay Trailer</a></li>
+						<li><a href="#">Chapter 3 Teaser Trailer 1</a></li>
+						<li><a href="#">Chapter 3 Teaser Trailer 2</a></li>
+						<li><a href="#">Project: Playtime Cinematic Trailer</a></li>
+					</ul>
+				</li>
 				<li><a href="patch_notes_and_updates.php">Patch Notes and Updates</a></li>
 				<button onclick="myFunction()">SWITCH MODE</button>
 			</ul>
