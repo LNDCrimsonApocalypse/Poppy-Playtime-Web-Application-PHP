@@ -267,6 +267,33 @@
 	</div>
 	<h4 align="center">
 		<font face="Courier New">
+			<b>TEASER TRAILER 1</b>
+		</font>
+	</h4>
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/QXSk2obIeJc?si=gsEoTz2O92MlT1SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
+	<h4 align="center">
+		<font face="Courier New">
+			<b>TEASER TRAILER 2</b>
+		</font>
+	</h4>
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/eQ35V-wxHqY?si=zO5qLMmGjzLnyA02" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
+	<h4 align="center">
+		<font face="Courier New">
+			<b>GAMEPLAY TRAILER 1</b>
+		</font>
+	</h4>
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/s3_k03RC668?si=1Si2ganZgAGQsRt7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
+	<h4 align="center">
+		<font face="Courier New">
 			<b>GAMEPLAY SCREENSHOTS</b>
 		</font>
 	</h4>

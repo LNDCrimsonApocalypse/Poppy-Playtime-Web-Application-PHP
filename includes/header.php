@@ -81,16 +81,6 @@
 						<li><a href="#">Misfit Pit (Phase 3)</a></li>
 					</ul>
 				</li>
-				<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Trailers <span class="caret"></span></a> 
-					<ul class="dropdown-menu">
-						<li><a href="#">Chapter 1 Official Gameplay Trailer</a></li>
-						<li><a href="#">Chapter 2 Teaser Trailer</a></li>
-						<li><a href="#">Chapter 2 Official Gameplay Trailer</a></li>
-						<li><a href="#">Chapter 3 Teaser Trailer 1</a></li>
-						<li><a href="#">Chapter 3 Teaser Trailer 2</a></li>
-						<li><a href="#">Project: Playtime Cinematic Trailer</a></li>
-					</ul>
-				</li>
 				<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">VHS <span class="caret"></span></a> 
 					<ul class="dropdown-menu">
 						<li><a href="#">Poppy Playtime VHS</a></li>

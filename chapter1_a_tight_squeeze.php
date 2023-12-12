@@ -426,6 +426,15 @@
 	</div>
 	<h4 align="center">
 		<font face="Courier New">
+			<b>GAMEPLAY TRAILER</b>
+		</font>
+	</h4>
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/xMQm8ubM-Cw?si=uLBk_Fxoa0cc62kD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
+	<h4 align="center">
+		<font face="Courier New">
 			<b>FULL GAMEPLAY</b>
 		</font>
 	</h4>

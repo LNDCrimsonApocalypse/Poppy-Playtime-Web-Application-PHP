@@ -383,6 +383,24 @@
 	</div>
 	<h4 align="center">
 		<font face="Courier New">
+			<b>TEASER TRAILER</b>
+		</font>
+	</h4>
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/YrzrYXcAQU4?si=OY1BIf8UIPWiujaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
+	<h4 align="center">
+		<font face="Courier New">
+			<b>GAMEPLAY TRAILER</b>
+		</font>
+	</h4>
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/XVENjm3Bjk0?si=rZOydJZ0WT0QcpOZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
+	<h4 align="center">
+		<font face="Courier New">
 			<b>FULL GAMEPLAY</b>
 		</font>
 	</h4>
