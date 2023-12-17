@@ -76,6 +76,35 @@
 		<img src="images/(PRPT) Boxy Boo.png" alt="Chapter 1" style="width:450px;height:250px;">
 	</div>
 	<br />
+
+	<?php
+			$servername = "localhost";
+			$username = "root";
+			$password = "";
+			$dbname = "poppyplaytime_db";
+
+			$conn = new mysqli($servername, $username, $password, $dbname);
+			if ($conn->connect_error) {
+				die("Connection failed: " . $conn->connect_error);
+			}
+
+			$sql = "SELECT * FROM project_playtime";
+			$result = $conn->query($sql);
+
+			if ($result->num_rows > 0) {
+				while ($row = $result->fetch_assoc()) {
+					echo "<tr>";
+					echo "<td>" . $row['input'] . "</td>";
+					echo "<td>" . $row['details'] . "</td>";
+					echo "</tr>";
+				}
+			} 
+			else {
+				echo "<tr><td colspan='2'>No details.</td></tr>";
+			}
+		  
+			$conn->close();
+		?>
 </body>
 </html>
 <?php include('includes/footer.php'); ?>
