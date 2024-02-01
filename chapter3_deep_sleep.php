@@ -298,6 +298,32 @@
 		<iframe width="1000" height="500" src="https://www.youtube.com/embed/s3_k03RC668?si=1Si2ganZgAGQsRt7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	</div>
 	<br />
+	<h4 align="center">
+		<font face="Courier New">
+			<b>GAMEPLAY TRAILER 2</b>
+		</font>
+	</h4>
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/csD8OYxl2Cs?si=DZ-A8DF-LSmlhP56" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
+	<h4 align="center">
+		<font face="Courier New">
+			<b>FULL GAMEPLAY</b>
+		</font>
+	</h4>
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/DPLFJA_hNrI?si=TdjmT0nhX0R6MRQy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/ATXcPl3WTxY?si=Ou8VobHIsuZ22j8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
+	<div class="video-container">
+		<iframe width="1000" height="500" src="https://www.youtube.com/embed/WFTiBKhLn8c?si=oS-fDGAPdb6eWJxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	<br />
 </body>
 </html>
 <?php include('includes/footer.php'); ?>
