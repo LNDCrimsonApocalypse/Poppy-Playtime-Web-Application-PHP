@@ -77,11 +77,7 @@
 	</div>
 	<br />
 	<div class="image1" align="center">
-		<img src="images/Fly in a Web.png" alt="Chapter 2" style="width:450px;height:250px;">
-	</div>
-	<br />
-	<div class="image1" align="center">
-		<img src="images/(CHAPTER 2) Mommy Long Legs.png" alt="Chapter 1" style="width:450px;height:250px;">
+		<img src="images/(CHAPTER 2) Mommy Long Legs.png" alt="Chapter 2" style="width:450px;height:250px;">
 	</div>
 	<br />
 	<table style="width:75%" align="center">

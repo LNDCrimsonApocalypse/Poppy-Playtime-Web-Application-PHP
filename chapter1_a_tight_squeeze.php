@@ -77,10 +77,6 @@
 	</div>
 	<br />
 	<div class="image1" align="center">
-		<img src="images/A Tight Squeeze.png" alt="Chapter 1" style="width:450px;height:250px;">
-	</div>
-	<br />
-	<div class="image1" align="center">
 		<img src="images/(CHAPTER 1) Huggy Wuggy.png" alt="Chapter 1" style="width:450px;height:250px;">
 	</div>
 	<br />

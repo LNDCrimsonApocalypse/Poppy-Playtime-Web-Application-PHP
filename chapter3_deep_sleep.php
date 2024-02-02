@@ -77,7 +77,7 @@
 	</div>
 	<br />
 	<div class="image1" align="center">
-		<img src="images/(CHAPTER 3) Experiment 1188.png" alt="Chapter 3" style="width:450px;height:250px;">
+		<img src="images/(CHAPTER 3) CatNap.png" alt="Chapter 3" style="width:450px;height:250px;">
 	</div>
 	<br />
 	<table style="width:75%" align="center">
@@ -133,7 +133,8 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					TBD
+					"In the aftermath of the train crash, you now find yourself stranded in the depths with a 
+					new goal in your sights."
 				</b>
 			</font>
 		</p>
