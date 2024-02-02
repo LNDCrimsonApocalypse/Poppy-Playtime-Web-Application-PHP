@@ -54,6 +54,7 @@
 						<li><a href="char_craftycorn.php">CraftyCorn</a></li>
 						<li><a href="char_bubba_bubbaphant.php">Bubba Bubbaphant</a></li>
 						<li><a href="char_hoppy_hopscotch.php">Hoppy Hopscotch</a></li>
+						<li><a href="#">Miss Delight</a></li>
 					</ul>
 				</li>
 				<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Chapter 1 Locations <span class="caret"></span></a> 
