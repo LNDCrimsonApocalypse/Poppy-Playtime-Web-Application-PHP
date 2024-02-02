@@ -149,11 +149,88 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					TBD
+					After the train wreck from Chapter 2: Fly in a Web, The Player is thrown down a tunnel by 
+					CatNap and lands in a trash compactor. After escaping, The Player makes their way to some 
+					maintenance tunnels, where a person who calls himself Ollie calls The Player via phone and 
+					explains the situation. The Player returns to the Train and enters the Playcare's train 
+					station. They take Elliot's Express into the Playcare, and during the ride an audio 
+					recording of Elliot Ludwig explains that he created Playcare for orphan children.
 				</b>
 			</font>
 		</p>
 		<br />
+		<p align="center">
+			<font face="Courier New">
+				<b>
+					Upon arriving at the Playcare, Ollie gives The Player a key to the Gas Production Zone 
+					which is used to power the building but also produces a gas called “the red smoke”. After 
+					activating the console, the power goes out. Ollie gives The Player a key to Home Sweet Home. 
+					The Player enters Home Sweet Home and inhales the red smoke, and they begin to hallucinate. 
+					They make their way through a maze of seemingly endless corridors, while also coming upon 
+					audio recordings that claim that a dead child had been found on Elliot Ludwig's estate. The 
+					Player reaches the end of the corridors, where they watch a tape welcoming employees to the 
+					Playtime Co. factory. The tape becomes more and more disturbing, beginning to criticise The 
+					Player for returning, and at the end a distorted, twisted version of Huggy Wuggy crawls out 
+					of the VCR and eats The Player. The Player wakes up in the real Home Sweet Home, and they 
+					find the Gas Mask soon after.
+				</b>
+			</font>
+		</p>
+		<br />
+		<p align="center">
+			<font face="Courier New">
+				<b>
+					After activating the power inside Home Sweet Home Kissy Missy tries to kill The Player 
+					until she is stopped by Poppy. A remorseful Poppy explains that The Player needs to get rid 
+					of the monsters who tortured them. She explains that The Prototype will kill The Player if 
+					they escape and The Prototype needs to be killed. Ollie tells the player to go to the School 
+					to restore power to it. While trying to turn on the generator, The Player encounters Miss 
+					Delight who tries to kill The Player. The Player soon kills Miss Delight in a gated room.
+				</b>
+			</font>
+		</p>
+		<br />
+		<p align="center">
+			<font face="Courier New">
+				<b>
+					While trying to escape, The Player encounters DogDay, who explains that CatNap wants to 
+					kill the player. DogDay also explains that CatNap takes orders from The Prototype who kills 
+					anyone who doesn’t listen to it. The Mini Smiling Critters infest DogDay before trying to 
+					kill The Player who escapes. Ollie then sends The Player to the Counselor's Office. While 
+					trying to restore power, a mysterious figure knocks The Player out in a dream state. While 
+					in the dream, Poppy asks The Player rhetorical questions with various visions of shadow 
+					children in the classrooms.
+				</b>
+			</font>
+		</p>
+		<br />
+		<p align="center">
+			<font face="Courier New">
+				<b>
+					After connecting the Counselor's Office to the statue, Ollie gives The Player a battery to 
+					the Gas Production Zone. After being placed, the red smoke appears while Catnap chases The 
+					Player into an area where The Player inserts batteries to power up the Gas Production Zone. 
+					Soon after, CatNap attempts to kill the player, but gets shocked and burned by the player. 
+					The Prototype kills CatNap and takes his body. Poppy later shows The Player a videotape which 
+					contains CCTV footage of what happened to The Player's coworkers, an incident she calls 
+					“The Hour of Joy”. The tape shows Huggy Wuggy and other mascots, under the Prototype's orders, 
+					indiscriminately killing everyone who was present in the factory at the time. Poppy then 
+					explains that she had been thrown into the case the Player found her in at the time, but 
+					she heard everything that happened and has since been distraught by the needless slaughter 
+					of so many lives, including thosse who were innocent, on that day. Therefore, she has vowed 
+					to put an end to the Prototype for what he has done.
+				</b>
+			</font>
+		</p>
+		<br />
+		<p align="center">
+			<font face="Courier New">
+				<b>
+					Poppy and The Player take an elevator downwards, in which screaming is heard, with Poppy 
+					fearing for Kissy.
+				</b>
+			</font>
+		</p>
 	</div>
 	<h3 align="center">
 		<font face="Courier New" color="#e03024">

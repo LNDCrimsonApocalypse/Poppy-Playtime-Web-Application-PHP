@@ -151,9 +151,9 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					The chapter starts with The Player receiving an anonymous letter with a picture of a poppy 
-					designating the site they must visit, encouraging them to return to the factory to find the 
-					company's employees. Along with the message, there comes a yellow VHS tape.
+					The chapter begins when The Player receives an anonymous letter inviting them back to the 
+					factory to find the company's staff, with an image of a poppy, representing the location 
+					they must find. A Yellow VHS Tape is also included with the message.
 				</b>
 			</font>
 		</p>
@@ -163,11 +163,12 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					The notice is displayed after viewing the VHS video, and the player is then brought inside the 
-					deserted facility. They are allowed to enter a storage room that contains a GrabPack and another 
-					VHS tape after deciphering the code to unlock the door (green, pink, yellow, and red, either in 
-					that order or in reverse order). The Player enters the main wing area using the GrabPack (which at 
-					this time only has one arm), where they are met by a huge statue of Huggy Wuggy.
+					After watching the VHS tape, the note is displayed and the player is loaded into the abandoned 
+					factory. After solving the code to unlock the door (green, pink, yellow, red, either in that 
+					order or in reverse order), they are able to access a storage room that holds a GrabPack 
+					and another VHS tape. Once The Player takes the GrabPack (which only has one arm for the 
+					moment), they use it to enter the main wing area, where they are greeted by a giant statue of 
+					Huggy Wuggy.
 				</b>
 			</font>
 		</p>
@@ -175,11 +176,11 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					A GrabPack-protected door is located to the left of the figure. The power will burn out after the 
-					GrabPack is placed on the sensor, thus the player will need to get a key and open the power room 
-					door. They will need to relocate to another room after re-wiring everything with the GrabPack and 
-					turning on the lights and power. Huggy will have left his plaque at this point and been spotted 
-					somewhere else.
+					On the left of the figure is a door that is protected by the GrabPack sensor. However, 
+					upon placing the GrabPack on the sensor, the power will burn out, and The Player will need 
+					to collect a key and unlock the door to the power room. After reconnecting the wires using the 
+					GrabPack and turning the power back on, along with the lights, they will need to move to 
+					another room. At this stage, Huggy will have moved from his plaque to another area.
 				</b>
 			</font>
 		</p>
@@ -187,16 +188,17 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					Now that the Player has gained access to the Warehouse, they must locate 4 power cells inside in 
-					order to turn on the crane and get the GrabPack's second hand. The Player will next need to access 
-					the conveyer belt that delivers toy components to the Make-A-Friend machine and repair the power 
-					so that the conveyer belt can operate. When they get there, they must turn on the upstairs power 
-					and construct their own Cat-Bee. The Player then inserts their toy into the scanning device to 
-					unlock the door, but Huggy Wuggy will instead appear and follow them around the room until they 
-					escape through the ventilation system next to the Make-A-Friend machine. Huggy Wuggy is pursuing 
-					them and attempting to hug them to death. The exit will be locked once The Player exits the vent, 
-					and in order to prevent Huggy Wuggy from approaching them, they must drag down a box from above 
-					that will destroy the bridge.
+					The Player is now able to enter the Warehouse, where they have to find 4 power cells to 
+					activate the crane and collect the GrabPack's second hand. Then, The Player will need to 
+					enter the conveyor belt that transfers toy parts to the Make-A-Friend machine, and fix the 
+					power to enable the conveyor belt to move. Once they arrive, they will need to turn on the 
+					power upstairs, and make their own Cat-Bee. The Player then places their toy in the scanning 
+					device to unlock the door, but instead of leaving, Huggy Wuggy will emerge and chase them 
+					around the room until they enter the ventilation system next to the Make-A-Friend machine, 
+					and will have to run away from Huggy Wuggy, who is following them, trying to hug them to 
+					death. Once The Player leaves the vent, the exit will be closed shut behind them, and they 
+					will have to pull down a box from above them that will break the bridge to stop Huggy Wuggy 
+					from reaching them.
 				</b>
 			</font>
 		</p>
@@ -204,11 +206,12 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					The Player will then proceed along the metal gratings until they reach the black VHS tape, which 
-					they will then either put in the associated tape player on the right, first, or move to the door 
-					with the painted poppy on the left. Poppy Playtime is located behind a door with red and black 
-					lights that move in a manner reminiscent of the petals of a poppy flower after the player enters 
-					the door. The chapter comes to a close when Poppy opens her eyes and the lights begin to flicker.
+					Finally, The Player will then walk along the metal gratings until they pick up the black 
+					VHS tape and use it in its corresponding tape player on the right, first, or move to the 
+					door with the poppy painted around it, on the left. After entering the door, The Player will 
+					go down some stairs until they reach a door with red and black lights moving around, similar 
+					to those of a poppy flower, where Poppy Playtime is situated. After opening the door, the 
+					lights will flicker as Poppy's eyes open, and the chapter ends.
 				</b>
 			</font>
 		</p>

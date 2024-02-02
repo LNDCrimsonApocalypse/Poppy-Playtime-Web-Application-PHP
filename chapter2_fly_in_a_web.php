@@ -151,12 +151,12 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					Following the events of Chapter 1: A Tight Squeeze, the player follows Poppy, who decides to aid 
-					in the player's escape by using the Game Station located deep within the institution in response 
-					to the player's rescue. This strategy is quickly derailed when Mommy Long Legs, the chapter's 
-					major enemy, assaults and kidnaps Poppy, prompting The Player to dive to the ground in an effort 
-					to save her. Once inside the station, Mommy Long Legs confronts the player and demands that they 
-					complete three games that get progressively harder in order to go out.
+					After the events of Chapter 1: A Tight Squeeze, The Player follows Poppy, who, in response 
+					to their rescue, decides to help them escape via the Game Station located deep under the 
+					facility. This plan is soon vandalized, as the chapter's main antagonist, Mommy Long Legs 
+					assaults and snatches Poppy, forcing The Player to drop down to attempt to save her. Once 
+					in the station, Mommy Long Legs confronts The Player, stating that in order to escape, The 
+					Player must play three games that become increasingly more difficult.
 				</b>
 			</font>
 		</p>
@@ -164,10 +164,11 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					The player must choose the correct buttons in the "Simon Says"-style game Musical Memory, which is 
-					the first game. This will increasingly speed up until the game breaks down and an immediate pause 
-					is called for. The Player then discovers themselves in a warehouse filled with abandoned toys, 
-					where a switch can be used to unlock the door leading to the train station.
+					The first game is Musical Memory, a "Simon Says"-like game where The Player has to select the 
+					correct buttons before Bunzo Bunny can kill them. This will gradually get faster until the 
+					game malfunctions and an emergency stop is required. The Player then finds themselves in a 
+					warehouse full of rejected toys, where there is a switch to unlock the door that leads back 
+					to the Game Station.
 				</b>
 			</font>
 		</p>
@@ -175,9 +176,8 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					The second game is Wack-a-Wuggy, a variation on "Whack-a-Mole" in which the player must hit the 
-					Mini Huggies, miniature Huggy Wuggy toys in various colors, when they emerge from holes in the 
-					wall.
+					The second game is Wack-a-Wuggy, a game similar to "Whack-a-Mole", where The Player must hit 
+					the Mini Huggies with their GrabPack as they're coming out of holes in the walls.
 				</b>
 			</font>
 		</p>
@@ -185,9 +185,9 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					The third game, Statues, is a maze-based game similar to "Red Light, Green Light," where the 
-					player must escape from PJ Pug-a-Pillar's pursuit. The Player can move when the lights are off 
-					and stops when they are on.
+					The third game is Statues, a game similar to "Red Light. Green Light", where The Player 
+					navigates a maze while being pursued by PJ Pug-a-Pillar. The Player stops when the lights 
+					turn on and can move when the lights go off.
 				</b>
 			</font>
 		</p>
@@ -195,15 +195,16 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					The Player leaves the third plainly rigged game (the ending is blocked by debris). Mommy Long Legs 
-					becomes enraged by this, though, and begins looking for The Player, alleging that The Player 
-					"cheated," and that she is going to play "one last game" with us, which she will refer to as 
-					"hide-and-seek." If you manage to elude Mommy's unrelenting pursuit, The Player will kill her by 
-					trapping her in a grinder and pulling the lever. The Player is then welcomed back into the Game 
-					Station as a weird, claw-like hand emerges from the bottom of the half closed door and drags 
-					Mommy's mutilated torso into the shadows. We are able to locate Poppy locked in Bay 09 and proceed 
-					to release her. After Poppy has gotten on the train and the player has entered the train code 
-					successfully, the train starts to move.
+					The Player escapes the third game, which is obviously rigged (the ending is blocked by debris). 
+					However, this infuriates Mommy Long Legs in the process, who starts hunting down The Player, 
+					claiming that they "cheated", and that she is going to play 'one last game' with them, calling 
+					it "Hide-and-Seek". After surviving Mommy's relentless chase, The Player will then trap 
+					Mommy in a grinder and activate the lever, killing her. After this, a mysterious, claw-like 
+					hand appears from the bottom of the partially closed door and drags Mommy's severed torso 
+					into the dark, before the door to the right opens, and The Player is let back into the Game 
+					Station. Navigating Bay 09 lets them find a trapped Poppy, and they proceed to free her. 
+					Poppy then boards the Train while The Player inputs the Train Code correctly, and the Train 
+					begins to move.
 				</b>
 			</font>
 		</p>
@@ -211,14 +212,14 @@
 		<p align="center">
 			<font face="Courier New">
 				<b>
-					Poppy, who has been seeing our exceptional intelligence and agility, decided that we are 
-					"too perfect to lose" and abruptly changed the path of the train. Following that, Poppy claims 
-					that she had "much time to think and reflecr" and that she and The Player can "set things 
-					right" by working together. A jumbled static interrupted her before she could finish. Poppy only 
-					has enough time to say, "What-? ' before the audio ends. Uncomfortably, the train is speeding up. 
-					The Player makes an attempt to use the emergency stop, but nothing happens. Prior to the train 
-					derailing and crashing with our vision fading into the night, we spot a sign for the Playcare, 
-					then the chapter is finished.
+					However, Poppy, witnessing their outstanding agility and intelligence, deems that they are 
+					'too perfect to lose', and changed the train's direction at the last second. Poppy then 
+					states she had 'much time to think and reflect', and that together, she and The Player can 
+					'set things right'. Before she can finish, the sound of a digital alarm clock cuts her off, 
+					leaving her with only enough time to exclaim 'what is-?' before the audio is cut off. The 
+					Train begins to accelerate at an alarming pace. The Player attempts to use the emergency stop, 
+					but the Train derails and crashes, and their vision fades into darkness afterwards, but not 
+					before they see a sign for Playcare. The chapter then ends.
 				</b>
 			</font>
 		</p>
