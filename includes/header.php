@@ -35,6 +35,7 @@
 						<li><a href="chapter1_a_tight_squeeze.php">Chapter 1: A Tight Squeeze</a></li>
 						<li><a href="chapter2_fly_in_a_web.php">Chapter 2: Fly in a Web</a></li>
 						<li><a href="chapter3_deep_sleep.php">Chapter 3: Deep Sleep</a></li>
+						<li><a href="#">Chapter 4</a></li>
 						<li><a href="project_playtime.php">Project: Playtime</a></li>
 					</ul>
 				</li>
