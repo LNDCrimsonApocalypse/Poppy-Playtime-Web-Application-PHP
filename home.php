@@ -113,7 +113,7 @@
 			<img src="images/(CHAPTER 2) Mommy Long Legs.png" alt="Ch2" style="width:100%;">
 		</div>
 		<div class="item">
-			<img src="images/(CHAPTER 3) CatNap.png" alt="Ch3" style="width:100%;">
+			<img src="images/(CHAPTER 3) CatNap V2.png" alt="Ch3" style="width:100%;">
 		</div>
 		<div class="item">
 			<img src="images/(PRPT) Boxy Boo.png" alt="ProjPT" style="width:100%;">
